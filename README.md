@@ -1,2 +1,2 @@
 # demo
-this is my demo project for learning
+this is demo project for learning
